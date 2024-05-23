@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🙂My name is Lucas Gabriel Traina Maia
+- 📖I'm studying at Alura
+- 🧠I use this space for my organization and sharing of my developed projects
